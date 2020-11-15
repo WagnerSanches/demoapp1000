@@ -8,8 +8,8 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
-            This is a simple example of an application
+        <div style="background:green">
+            ### This is a simple example of an application ###
         </div>
     </form>
 </body>
